@@ -1,0 +1,7 @@
+C:\Users\placi\Desktop\Estudo\CTW\Prova C#\ProvaParteI\ProvaParteI\bin\Debug\ProvaParteI.exe.config
+C:\Users\placi\Desktop\Estudo\CTW\Prova C#\ProvaParteI\ProvaParteI\bin\Debug\ProvaParteI.exe
+C:\Users\placi\Desktop\Estudo\CTW\Prova C#\ProvaParteI\ProvaParteI\bin\Debug\ProvaParteI.pdb
+C:\Users\placi\Desktop\Estudo\CTW\Prova C#\ProvaParteI\ProvaParteI\obj\Debug\ProvaParteI.csprojAssemblyReference.cache
+C:\Users\placi\Desktop\Estudo\CTW\Prova C#\ProvaParteI\ProvaParteI\obj\Debug\ProvaParteI.csproj.CoreCompileInputs.cache
+C:\Users\placi\Desktop\Estudo\CTW\Prova C#\ProvaParteI\ProvaParteI\obj\Debug\ProvaParteI.exe
+C:\Users\placi\Desktop\Estudo\CTW\Prova C#\ProvaParteI\ProvaParteI\obj\Debug\ProvaParteI.pdb
